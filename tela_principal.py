@@ -14,7 +14,7 @@ global img
 
 def tela_principal():
     root = Tk()
-    root.title('Read')
+    root.title('BookBox')
     root.geometry('1600x850')
     root.config(bg='yellow')
     root.resizable(width=True, height=True)
