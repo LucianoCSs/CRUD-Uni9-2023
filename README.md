@@ -1,6 +1,4 @@
-Sistema de Gerenciamento de Livros: Uma Abordagem em Python e MySQL
-
-O que é um Sistema de Gerenciamento de Livros?
+Sistema de Gerenciamento de Livros
 
 Imagine uma biblioteca, mas em formato digital. Um sistema de gerenciamento de livros é um software que organiza, controla e facilita o acesso a uma coleção de livros. Ele permite realizar diversas tarefas, como:
 
